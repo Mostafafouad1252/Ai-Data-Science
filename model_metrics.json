@@ -1,0 +1,7 @@
+{
+  "regression_r2": 0.8318804855538782,
+  "regression_mae": 1479.3462984999967,
+  "classification_accuracy": 0.885,
+  "clustering_silhouette": 0.2735658124415867,
+  "avg_predicted_revenue": 18252.322726
+}
